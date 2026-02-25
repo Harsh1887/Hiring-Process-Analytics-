@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project simulates the role of a **Data Analyst at a multinational company (Google-scale)**. The task was to analyze historical hiring data and extract meaningful insights that can help the HR department improve decision-making around recruitment, salary benchmarking, and workforce composition.
+This project simulates the role of a **Data Analyst at a multinational company **. The task was to analyze historical hiring data and extract meaningful insights that can help the HR department improve decision-making around recruitment, salary benchmarking, and workforce composition.
 
 **Tools Used:** Microsoft Excel (COUNTIFS, AVERAGE, MEDIAN, Pivot Tables, Charts)
 **Dataset Size:** 7,167 records | 7 columns
